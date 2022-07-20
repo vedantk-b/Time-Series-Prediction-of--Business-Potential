@@ -32,4 +32,4 @@
 ### - AutoARIMA 
 ### - LSTM (Long-Short Term Memory) Models
 
-## We ranked 6 nationally (Competition Leaderboard)[https://dphi.tech/challenges/round-2-iit-bombay-techfest-tata-communications-datathon/178/leaderboard/private/]
+## We ranked 6 nationally [Competition Leaderboard](https://dphi.tech/challenges/round-2-iit-bombay-techfest-tata-communications-datathon/178/leaderboard/private/)
