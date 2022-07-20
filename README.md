@@ -4,7 +4,7 @@
 ### Given the business potential of 3,915 regions over a period of 6 years(72 months), forecast the business potential of all these regions for the next 15 months. 
 ### Link to the detailed [problem statement](https://techfest.org/2021/competitons/Datathon.pdf)
 ### Our team ranked 6 nationally [Competition Leaderboard](https://dphi.tech/challenges/round-2-iit-bombay-techfest-tata-communications-datathon/178/leaderboard/private/)
-
+### [Presentation Slides](https://www.canva.com/design/DAE1goJ12uY/sNkIez066j3rfv5qWbGulw/view?utm_content=DAE1goJ12uY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 # Exploring the data:
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/77911251/157307309-b094b2c1-eaa3-46f8-bf6e-76121c021052.png">
 
