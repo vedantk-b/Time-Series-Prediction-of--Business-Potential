@@ -1,4 +1,4 @@
-# Techfest-Datathon | IIT-Bombay
+# Techfest-Datathon : IIT-Bombay
 
 # Problem Statement:
 ### Given the business potential of 3,915 regions over a period of 6 years(72 months), forecast the business potential of all these regions for the next 15 months. 
